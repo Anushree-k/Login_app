@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  justify-content: center;
+  background-image: url('back2.jpg');
+  background-size:cover;
+  font-family: serif;
+}
+
+h1 {
+  font-size: 40px;
+  color:blue;
+}
+
+#em1, #pass {
+  padding: 1%;
+  margin-left: 10px;
+}
+
+label {
+  font-size: 20;
+}
+
+input {
+  border:20% dotted black;
+  border-radius: 20px;
+}
+
+button {
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 20px;
+  padding: 8px;
+}
